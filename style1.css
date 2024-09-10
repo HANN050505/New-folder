@@ -1,0 +1,14 @@
+.container-navbar {
+    background-color: black;
+}
+.ul-navbar {
+    display: flex;
+    justify-content: center;
+}
+.li-navbar {
+    list-style: none;
+    padding: 10px;
+    margin: 10px;
+    color: aliceblue;
+    border: 1px solid blue
+}
